@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Anchor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - TargetLayer
+  m_SortingLayers:
+  - name: BackGroundShape
+    uniqueID: 3188799527
+    locked: 0
+  - name: BodyShape
+    uniqueID: 2864383247
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GazeShape
+    uniqueID: 3155620901
+    locked: 0

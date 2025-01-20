@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: b5127bfe11eb9fd4dbe2bf6f9a3ad706
+  - enabled: 1
+    path: Assets/Scenes/PracticeScene.unity
+    guid: a7ad092de317da64a85a4b4452cf09bf
+  - enabled: 1
+    path: Assets/Scenes/AfterPracticeScene.unity
+    guid: 0f89113fa182c9b47981b0e6d13edac2
+  - enabled: 1
+    path: "Assets/Scenes/Distance8\xB0.unity"
+    guid: db231ea9b8c8dda4fbe17a108ddd84b2
+  - enabled: 1
+    path: "Assets/Scenes/Distance6\xB0.unity"
+    guid: ca1572f424419bd4b8a125f3c17a2f47
+  - enabled: 1
+    path: "Assets/Scenes/Distance4\xB0.unity"
+    guid: 27b0090bf8e79f844927236c79d13d7a
+  - enabled: 1
+    path: "Assets/Scenes/Distance2\xB0.unity"
+    guid: 271c57b9c8b11fa4f82660b34579e7dd
+  - enabled: 1
+    path: Assets/Scenes/PositionHN.unity
+    guid: 4a49310475b0add4eb5b21f4a5009891
+  - enabled: 1
+    path: Assets/Scenes/PositionArc.unity
+    guid: 8eb6cd6360f43fe46b96c6e1b4fc04ca
+  - enabled: 1
+    path: Assets/Scenes/FontMincho.unity
+    guid: 786b99b864ecdba46bae4480dd8bcc3e
+  - enabled: 1
+    path: Assets/Scenes/FontUD.unity
+    guid: bf09377eb0f0756459ca40a45d924595
+  - enabled: 1
+    path: Assets/Scenes/Opacity1.unity
+    guid: 77c697969623dbb42a69e6b72a082762
+  - enabled: 1
+    path: Assets/Scenes/Opacity0.7.unity
+    guid: f6147e199e3df0b44adb4e93a189c25e
+  - enabled: 1
+    path: Assets/Scenes/Opacity0.5.unity
+    guid: 22d1c8b592e1ae24c8ef3665691adff8
+  - enabled: 1
+    path: Assets/Scenes/Opacity0.3.unity
+    guid: 2ea4d53065a2ea340bd45f09d0f01638
+  - enabled: 1
+    path: Assets/Scenes/Brightness1.unity
+    guid: 5ea5e17b0d6b9274aad515cde9253450
+  - enabled: 1
+    path: Assets/Scenes/Brightness0.5.unity
+    guid: 9e80d18832bdb9f4ab14c0f55914d374
+  - enabled: 1
+    path: Assets/Scenes/Brightness0.unity
+    guid: 850d52ae58f5276468623a14b42b4b9c
+  - enabled: 1
+    path: Assets/Scenes/LastScene.unity
+    guid: 779445bac3a995441a73ebefa6099002
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9bec1ce6a03ccba4b9a8215241b32e63, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a49cadc1a815591479693b955ccf08c1, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 47b166f2b133f2f4c8ddb3e3dbac8390, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 69a9138a50885314e9ca08b142edb8a1, type: 2}

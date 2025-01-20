@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuyay\\VR Ex2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\maincontrollerud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maincontrollerud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\maincontrollerfbx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maincontrollerfbx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|c:\\users\\yuyay\\vr ex2\\assets\\scripts\\afterpracticemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\afterpracticemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\practicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|c:\\users\\yuyay\\vr ex2\\assets\\scripts\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\lastscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lastscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\loopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loopmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\generatetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\generatetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\textanswercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textanswercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\backgrondshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgrondshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuyay\\VR Ex2\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventTrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\emotionanswercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\emotionanswercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\textmanagermincho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\textmanagermincho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\bodyshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bodyshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|C:\\Users\\yuyay\\VR Ex2\\assets\\scripts\\answercheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC048CE-0A09-B3DF-E4E9-252CD3531FFC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\answercheker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuyay\\VR Ex1\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\GazeInputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AfterPracticeManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\AfterPracticeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AfterPracticeManager.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\AfterPracticeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AfterPracticeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:32:43.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\MainController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainController.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\MainController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:29:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TutorialController.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TutorialController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TutorialController.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TutorialController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TutorialController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:25:33.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenerateText.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\GenerateText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GenerateText.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\GenerateText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GenerateText.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:30:10.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainControllerFBX.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\MainControllerFBX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainControllerFBX.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\MainControllerFBX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainControllerFBX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:22:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LastSceneController.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\LastSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LastSceneController.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\LastSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LastSceneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:02:51.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticeController.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\PracticeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PracticeController.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\PracticeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PracticeController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAUwGcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:23:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainControllerUD.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\MainControllerUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainControllerUD.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\MainControllerUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainControllerUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:40:55.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextAnswerController.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TextAnswerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextAnswerController.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TextAnswerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextAnswerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwDEAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-13T07:32:46.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextManager.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TextManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:44:30.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoopManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\LoopManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoopManager.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\LoopManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoopManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T19:49:49.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmotionAnswerController.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\EmotionAnswerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EmotionAnswerController.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\EmotionAnswerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EmotionAnswerController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCgAAAA0AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-13T07:32:40.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BackgrondShape.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\BackgrondShape.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgrondShape.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\BackgrondShape.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgrondShape.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAcwD0AAAAsAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-09T10:54:14.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataManager.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvzoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-13T14:35:09.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TextManagerMincho.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TextManagerMincho.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TextManagerMincho.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\TextManagerMincho.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TextManagerMincho.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-13T07:57:57.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EventTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventTrigger.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventTrigger.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventTrigger.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventTrigger.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAYwNkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T14:47:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InputManager.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\InputManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InputManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-13T14:00:55.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BodyShape.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\BodyShape.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BodyShape.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\BodyShape.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BodyShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-11T17:36:19.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GazeInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex1\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "RelativeDocumentMoniker": "..\\VR Ex1\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex1\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "RelativeToolTip": "..\\VR Ex1\\Assets\\Samples\\XR Interaction Toolkit\\2.4.3\\Starter Assets\\Scripts\\GazeInputManager.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzYAAADgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:16:12.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\Button.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Button.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\Button.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Button.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-11T17:36:35.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AnswerCheker.cs",
+              "DocumentMoniker": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\AnswerCheker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnswerCheker.cs",
+              "ToolTip": "C:\\Users\\yuyay\\VR Ex2\\Assets\\Scripts\\AnswerCheker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnswerCheker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAADAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADtSURBVDhPYxgFCHDh4YX/sQtj/6u3qP9XblL\u002BHzk/8j9UiuHtx7f/VZpVwHxkNggwgohLjy79D18SzmAua86QZJbEwM/Bz3D91XWGCNMIRpAGo34jsGJkwMrMynCn9g5YP0PK0pT/3tO9/3/58gVuMjLA5wImEHH68WkGN3U3Bh4eHoiJJACwAb/\u002B/gI7CRuAeeH3398M8g3ycDayKxjC5oX9D54TjNX5IIDPC2Ann7x78n/E4ggGDw0PhgiDCLBrLj2/xJBhl0HQS3AFe67t\u002BT/lyBSGO2/uMHCxcTHYK9szdAd2kxwmIw8wMAAAESl0qwYO77cAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-12-09T10:48:14.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
